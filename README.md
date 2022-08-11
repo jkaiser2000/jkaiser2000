@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkaiser2000
 - 👀 I’m interested in ...devnet
-- 🌱 I’m currently learning ... cisco devnet
+- 🌱 I’m currently learning ... cisco devnet and passed it. Want to learn API calls in json with Service Titan and QUick Books
 - 💞️ I’m looking to collaborate on ... python, Json, YAWL, ect
 - 📫 How to reach me ...email joshkaiser2000@yahoo.com or joskaise@cisco.com
 
